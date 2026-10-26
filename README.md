@@ -1,4 +1,6 @@
-﻿# Hi there, we're AdminSignal 👋
+﻿![AdminSignal Banner](assets/adminsignal-profile-banner.png)
+
+# Hi there, we're AdminSignal 👋
 
 [![Website](https://img.shields.io/badge/Website-adminsignal.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adminsignal.com)
 [![Focus](https://img.shields.io/badge/Focus-Intune%20%7C%20ConfigMgr%20%7C%20Windows%2011-23272A?style=for-the-badge&logo=windows&logoColor=white)](https://adminsignal.com)
@@ -36,3 +38,4 @@ We focus on practical, battle-tested solutions for enterprise Windows environmen
 Have a suggestion for a remediation script, or ran into an undocumented CSP behavior in the latest Windows 11 build?
 * Open an issue on any repository above
 * Read our full technical guides at [**adminsignal.com**](https://adminsignal.com)
+
